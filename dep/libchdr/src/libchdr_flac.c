@@ -300,3 +300,4 @@ static drflac_bool32 flac_decoder_seek_callback(void *userdata, int offset, drfl
 	}
 	return 0;
 }
+
